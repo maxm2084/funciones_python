@@ -16,6 +16,7 @@
 # Ejercicios con funciones y módulos
 import random
 
+
 '''
 Enunciado:
 Crear la función "contar"
@@ -46,6 +47,7 @@ def lista_aleatoria(inicio, fin, cantidad):
         numero = random.randint(inicio, fin)
         aleatorios.append(numero)
     return aleatorios
+
 
 # --------------------------------
 
